@@ -1,2 +1,2 @@
 # hello-dock
-experimental repo
+Repo for experiments to run streamlit==1.10.0 inside docker container
