@@ -1,8 +1,4 @@
 import streamlit as st
 
-x = st.slider('x', 0, 100)
-
-st.write("FORM DOCKER!!!! DDD")
-st.write("The value of x is:", x)
-
-print("AAAAAAAAAAAA" * 10)
+x = st.slider("AAA", 0, 100, 27)
+st.write(x ** 2)
